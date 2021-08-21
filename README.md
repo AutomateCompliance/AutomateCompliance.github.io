@@ -1,4 +1,4 @@
-# Get started building your personal website
+# Get started building your github website
 
 ### Showcase your software development skills
 
